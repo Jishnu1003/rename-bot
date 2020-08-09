@@ -28,7 +28,7 @@ This is a Telegram Rename Bot!
 2. Reply to that message to /rename new name.extension.
    
 
-
+My owner is [Jishnu](https://t.me/USER_IS_HACKER)🇮🇳
 --------
 
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to `/rename New Name.extension` with custom thumbnail support.."
